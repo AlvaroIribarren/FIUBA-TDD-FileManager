@@ -1,0 +1,17 @@
+.dropdown {
+    position: relative;
+    top: 100px;
+    width: 300px; 
+    transform: translate(-45%);
+    background-color: rgba(238, 238, 237, 0.89);
+    border: var(--border);
+    border-radius: var(--border);
+    padding: 1rem;
+    overflow: hidden;
+}
+
+
+.icon-text {
+    margin: 2px;
+}
+

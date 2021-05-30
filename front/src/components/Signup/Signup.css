@@ -1,0 +1,31 @@
+.form-group {
+    padding: 15px;
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+button btn-primary btn-block {
+    background-color: blue;
+}
+
+.sign-up-text {
+    padding: 20px;
+}
+
+.forgot-password {
+    padding: 20px
+}
+
+.btn {
+    margin: 10px;
+}
+
+.sign-in {
+    padding: 10px;
+    margin: 10px;
+}

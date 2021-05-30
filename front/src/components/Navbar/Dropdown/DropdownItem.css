@@ -1,0 +1,23 @@
+.menu-item {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    border-radius: var(--border-radius);
+    transition: background var(--speed);
+    padding: 0.5rem;
+    position: relative;
+}
+
+.menu-item:hover {
+    background-color: #525357;
+}
+
+.icon-button {
+    height: 25px;
+    width: 25px;
+    align-items: center;
+}
+
+.icon-right {
+    margin-left: auto;
+}
